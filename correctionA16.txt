@@ -1,0 +1,89 @@
+﻿
+Prénom et Nom 1:Gabriel Brunette-Savard
+Prénom et nom 2:Pierre-Olivier Dostie
+
+Numéro de dossier (NI) 1:902189714
+Numéro de dossier (NI) 2:111026116
+
+Temps de réalisation 1 :25h
+Temps de réalisation 2 :25h
+
+
+Fonctionnalités
+---------------
+/2 : Constructeur Combinaison
+     Commentaires :
+
+/1 : Combinaison.est_nenette
+     Commentaires :
+
+/4 : Opérateurs de comparaison - combinaison
+     Commentaires :
+
+/1 : Combinaison.__str__
+     Commentaires :
+
+  
+
+/3 : Combinaison.trouver_valeur
+     Commentaires :
+
+/1 : Constructeur Joueur
+     Commentaires :	
+
+/1 : Joueur.lancer_des
+     Commentaires :
+
+/4 : Joueur.jouer_tour
+     Commentaires :
+
+/1 : Joueur.ajouter_jetons et Joueur.retirer_jetons
+     Commentaires :
+
+/1 : Operateur de comparaison Joueur
+     Commentaires :
+
+/1 : Joueur.__str__
+     Commentaires :
+
+/2 : Constructeur Partie
+     Commentaires :
+
+/3 : Partie.determiner_premier_lanceur
+     Commentaires :
+
+/5 : Partie.jouer_tour_premiere_phase
+     Commentaires :
+
+/5 : Partie.jouer_tour_deuxieme_phase
+     Commentaires :
+
+/5 : Partie.jouer
+     Commentaires :
+
+/1 : Partie.verifier_gagnant et Partie.retirer_joueur
+     Commentaires :
+
+/2 : Partie.afficher_recapitulatif
+     Commentaires :
+
+/3 : Interface.choisir_des_a_relancer
+     Commentaires :
+
+/2 : Qualite du code (nom de variables, style, commentaires, documentation, PEP8, etc..)
+     Commentaires :
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /48
+
